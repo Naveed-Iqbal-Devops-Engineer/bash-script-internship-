@@ -1,0 +1,1 @@
+backup completed: /home/naveed/bashlocal/cron/backup2/etc-backup-2025-11-25-03-00.tar.gz
