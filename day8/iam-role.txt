@@ -1,0 +1,16 @@
+Real-World DevOps Automation Example: Automating EC2 + S3 Setup with IAM via AWS CLI
+
+🎯 Industry Scenario
+You are a DevOps Engineer at a SaaS company. You’ve been tasked with automating the provisioning of an EC2 instance that should:
+Be able to read from an S3 bucket.
+Auto-stop and auto-start based on business logic.
+Be provisioned entirely using AWS CLI + Bash scripting, ensuring repeatability and IaC (Infrastructure as Code) principles.
+
+
+
+🛠️ Objective
+Create a complete automated setup using AWS CLI in Bash to:
+Launch an EC2 instance.
+Create and attach a minimal IAM role with read-only access to S3.
+Automatically stop and start the EC2 instance on demand.
+Create a secure S3 bucket for data storage.
