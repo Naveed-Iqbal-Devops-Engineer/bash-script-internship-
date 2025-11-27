@@ -1,0 +1,7 @@
+Cloud Infrastructure Automation with Bash Scripting
+🎯 Objective:
+To simulate real-world scenarios a Cloud Administrator faces daily by writing and executing Bash scripts for cloud instance setup, and automated backups using AWS CLI.
+🏢 Industry Scenario:
+You’re a Cloud Admin at a health tech company using AWS.
+Launch servers automatically with a script — saves time.
+Backup files to AWS S3 nightly — keeps data safe and follows rules.
